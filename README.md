@@ -1,8 +1,8 @@
 ## Hi there! I'm Joann Whang 👋
 
-[![LinkedIn](https://img.shields.io/badge/joann_whang%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joann-whang/)](https://www.linkedin.com/in/joann-whang/)
-[![GitHub](https://img.shields.io/badge/joeyohie%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/joeyohie)](https://github.com/joeyohie)
-[![Gmail](https://img.shields.io/badge/joann_whang%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:joann.whang@gmail.com)](mailto:joann.whang@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joann.whang@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joann-whang/)
+<br>
 
 - :bulb: lifelong learner
 - :dancers: passionate collaborator
